@@ -9,7 +9,7 @@ Peyton McWhorter - https://github.com/pem83470/Group-9
 
 Andrew Smith - https://github.com/andrewmsjr/Andrew-Smith-4610-Group-9
 
-Somya Tailang -
+Somya Tailang - https://github.com/Somya-T/MIST-4610---TEAM-9
 
 Ava Weichel - https://github.com/avaweichel/avaweichel/blob/main/README.md
 
